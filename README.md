@@ -12,16 +12,16 @@
 </a>
 
 <a href="https://github.com/LeTrieuPhu/NGFW-iptable-squid-snort-clamav-MISP">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=LeTrieuPhu&repo=NGFW-iptable-squid-snort-clamav-MISP&show=stars,prs&description_lines_count=3&show_icons=true&theme=blue-green" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=LeTrieuPhu&repo=NGFW-iptable-squid-snort-clamav-MISP&description_lines_count=3&show_icons=true&theme=blue-green" />
 </a>
 <a href="https://github.com/LeTrieuPhu/LLM-base-HoneyPot-in-NGFW">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=LeTrieuPhu&repo=LLM-base-HoneyPot-in-NGFW&show=stars,prs&description_lines_count=3&show_icons=true&theme=great-gatsby" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=LeTrieuPhu&repo=LLM-base-HoneyPot-in-NGFW&description_lines_count=3&show_icons=true&theme=great-gatsby" />
 </a>
 <a href="https://github.com/LeTrieuPhu/SDN-Ryu-Controller">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=LeTrieuPhu&repo=SDN-Ryu-Controller&show=stars,prs&description_lines_count=3&show_icons=true&theme=blueberry" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=LeTrieuPhu&repo=SDN-Ryu-Controller&description_lines_count=3&show_icons=true&theme=blueberry" />
 </a>
 <a href="https://github.com/LeTrieuPhu/NGFW-iptables-and-squid">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=LeTrieuPhu&repo=NGFW-iptables-and-squid&show=stars,prse&description_lines_count=3&show_icons=true&theme=cobalt" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=LeTrieuPhu&repo=NGFW-iptables-and-squid&description_lines_count=3&show_icons=true&theme=cobalt" />
 </a>
 
 
