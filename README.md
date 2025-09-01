@@ -4,6 +4,8 @@
 
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/letrieuphu221100/) [![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/LeTrieuPhu/)
 
+| <a href="https://github.com/LeTrieuPhu/LeTrieuPhu"><img align="center" src="https://github-readme-stats.vercel.app/api?username=LeTrieuPhu&show_icons=true&include_all_commits=true&theme=merko&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/LeTrieuPhu/LeTrieuPhu"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeTrieuPhu&layout=compact&theme=merko&hide_border=true" /></a> |
+| ------------- | ------------- |
 <a href="https://github.com/LeTrieuPhu/LeTrieuPhu">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=LeTrieuPhu&hide=issues,contribs&show_icons=true&theme=merko" />
 </a>
